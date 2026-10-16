@@ -1,0 +1,1087 @@
+ID_VILLE,LATITUDE,LONGITUDE,ELEVATION,VILLE,ETAT,Continent
+0,-46.3660011291504,167.811996459961,26,Southland District,New Zealand / Aotearoa,Oceania
+1,-46.3660011291504,168.438003540039,25,Invercargill City,New Zealand / Aotearoa,Oceania
+2,-46.3660011291504,168.75,30,Waihopai Toetoe Community,New Zealand / Aotearoa,Oceania
+3,-46.3660011291504,169.061996459961,547,Waihopai Toetoe Community,New Zealand / Aotearoa,Oceania
+4,-46.3660011291504,169.375,439,Clutha District,New Zealand / Aotearoa,Oceania
+5,-46.3660011291504,169.688003540039,92,Clutha District,New Zealand / Aotearoa,Oceania
+6,-45.1170997619629,167.5,826,Fiordland Community,New Zealand / Aotearoa,Oceania
+7,-45.1170997619629,167.811996459961,97,Fiordland Community,New Zealand / Aotearoa,Oceania
+8,-45.1170997619629,168.125,905,Fiordland Community,New Zealand / Aotearoa,Oceania
+9,-45.1170997619629,168.438003540039,305,Queenstown-Lakes District,New Zealand / Aotearoa,Oceania
+10,-45.1170997619629,168.75,381,Queenstown-Lakes District,New Zealand / Aotearoa,Oceania
+11,-45.1170997619629,169.061996459961,870,Cromwell Community,New Zealand / Aotearoa,Oceania
+12,-45.1170997619629,169.375,559,Vincent Community,New Zealand / Aotearoa,Oceania
+13,-45.1170997619629,169.688003540039,468,Vincent Community,New Zealand / Aotearoa,Oceania
+14,-45.1170997619629,170.0,439,Maniototo Community,New Zealand / Aotearoa,Oceania
+15,-45.1170997619629,170.311996459961,514,Maniototo Community,New Zealand / Aotearoa,Oceania
+16,-45.1170997619629,170.625,583,Waitaki District,New Zealand / Aotearoa,Oceania
+17,-45.1170997619629,170.938003540039,50,Oamaru,New Zealand / Aotearoa,Oceania
+18,-43.8680992126465,169.061996459961,30,Haast,New Zealand / Aotearoa,Oceania
+19,-43.8680992126465,169.375,1387,Westland District,New Zealand / Aotearoa,Oceania
+20,-43.8680992126465,169.688003540039,1201,Westland District,New Zealand / Aotearoa,Oceania
+21,-43.8680992126465,170.0,1654,Mackenzie District,New Zealand / Aotearoa,Oceania
+22,-43.8680992126465,170.311996459961,1614,Mackenzie District,New Zealand / Aotearoa,Oceania
+23,-43.8680992126465,170.625,1206,Mackenzie District,New Zealand / Aotearoa,Oceania
+24,-43.8680992126465,170.938003540039,1169,Mackenzie District,New Zealand / Aotearoa,Oceania
+25,-43.8680992126465,171.25,308,Timaru District,New Zealand / Aotearoa,Oceania
+26,-43.8680992126465,171.561996459961,182,Ashburton District,New Zealand / Aotearoa,Oceania
+27,-43.8680992126465,171.875,96,Ashburton District,New Zealand / Aotearoa,Oceania
+28,-43.8680992126465,172.811996459961,215,Banks Peninsula Community,New Zealand / Aotearoa,Oceania
+29,-43.5559005737305,146.875,1,Recherche,Australia,Oceania
+30,-43.5559005737305,170.0,573,Westland District,New Zealand / Aotearoa,Oceania
+31,-43.5559005737305,170.311996459961,1927,Mackenzie District,New Zealand / Aotearoa,Oceania
+32,-43.5559005737305,170.625,1722,Mackay Basin,New Zealand / Aotearoa,Oceania
+33,-43.5559005737305,170.938003540039,1132,Mount Potts Station,New Zealand / Aotearoa,Oceania
+34,-43.5559005737305,171.25,860,Ashburton District,New Zealand / Aotearoa,Oceania
+35,-43.5559005737305,171.561996459961,792,Ashburton District,New Zealand / Aotearoa,Oceania
+36,-43.5559005737305,171.875,241,Selwyn District,New Zealand / Aotearoa,Oceania
+37,-43.5559005737305,172.188003540039,142,Selwyn District,New Zealand / Aotearoa,Oceania
+38,-43.5559005737305,172.5,35,Prebbleton,New Zealand / Aotearoa,Oceania
+39,-42.306999206543,145.311996459961,-9999,Southwest,Australia,Oceania
+40,-42.306999206543,145.625,304,Southwest,Australia,Oceania
+41,-42.306999206543,145.938003540039,597,Southwest,Australia,Oceania
+42,-42.306999206543,146.25,933,Butlers Gorge,Australia,Oceania
+43,-42.306999206543,146.561996459961,609,Ouse,Australia,Oceania
+44,-42.306999206543,146.875,540,Hermitage,Australia,Oceania
+45,-42.306999206543,147.188003540039,443,Lower Marshes,Australia,Oceania
+46,-42.306999206543,147.5,358,Andover,Australia,Oceania
+47,-42.306999206543,147.811996459961,295,Tooms Lake,Australia,Oceania
+48,-42.306999206543,171.561996459961,120,Grey District,New Zealand / Aotearoa,Oceania
+49,-42.306999206543,171.875,612,Buller District,New Zealand / Aotearoa,Oceania
+50,-42.306999206543,172.188003540039,399,Buller District,New Zealand / Aotearoa,Oceania
+51,-42.306999206543,172.5,1073,Hurunui District,New Zealand / Aotearoa,Oceania
+52,-42.306999206543,172.811996459961,1267,Hurunui District,New Zealand / Aotearoa,Oceania
+53,-42.306999206543,173.125,1163,Marlborough,New Zealand / Aotearoa,Oceania
+54,-42.306999206543,173.438003540039,741,Kaikōura District,New Zealand / Aotearoa,Oceania
+55,-42.306999206543,173.75,-9999,Kaikōura District,New Zealand / Aotearoa,Oceania
+56,-38.2480010986328,141.561996459961,46,Gorae,Australia,Oceania
+57,-38.2480010986328,141.875,12,Tyrendarra,Australia,Oceania
+58,-38.2480010986328,142.188003540039,45,Tarrone,Australia,Oceania
+59,-38.2480010986328,142.5,26,Winslow,Australia,Oceania
+60,-38.2480010986328,142.811996459961,98,Terang,Australia,Oceania
+61,-38.2480010986328,143.125,240,Camperdown,Australia,Oceania
+62,-38.2480010986328,143.438003540039,145,Wool Wool,Australia,Oceania
+63,-38.2480010986328,143.75,157,Ombersley,Australia,Oceania
+64,-38.2480010986328,144.061996459961,162,Surf Coast Shire,Australia,Oceania
+65,-38.2480010986328,144.375,7,City of Greater Geelong,Australia,Oceania
+66,-38.2480010986328,145.625,1,Melbourne,Australia,Oceania
+67,-38.2480010986328,145.938003540039,152,Ellinbank,Australia,Oceania
+68,-38.2480010986328,146.25,163,Coalville,Australia,Oceania
+69,-38.2480010986328,146.561996459961,129,Loy Yang,Australia,Oceania
+70,-38.2480010986328,146.875,156,Rosedale,Australia,Oceania
+71,-38.2480010986328,147.188003540039,20,Longford,Australia,Oceania
+72,-38.2480010986328,175.0,436,Waitomo District,New Zealand / Aotearoa,Oceania
+73,-38.2480010986328,175.311996459961,87,Otorohanga District,New Zealand / Aotearoa,Oceania
+74,-38.2480010986328,175.625,353,Otorohanga District,New Zealand / Aotearoa,Oceania
+75,-38.2480010986328,175.938003540039,388,South Waikato District,New Zealand / Aotearoa,Oceania
+76,-38.2480010986328,176.25,400,Rotorua Lakes District,New Zealand / Aotearoa,Oceania
+77,-38.2480010986328,176.561996459961,559,Rotorua Lakes District,New Zealand / Aotearoa,Oceania
+78,-38.2480010986328,176.875,378,Whakatāne District,New Zealand / Aotearoa,Oceania
+79,-38.2480010986328,177.188003540039,431,Ōpōtiki District,New Zealand / Aotearoa,Oceania
+80,-38.2480010986328,177.5,455,Gisborne,New Zealand / Aotearoa,Oceania
+81,-38.2480010986328,177.811996459961,463,Gisborne,New Zealand / Aotearoa,Oceania
+82,-38.2480010986328,178.125,343,Gisborne,New Zealand / Aotearoa,Oceania
+83,-36.6869010925293,140.0,11,Taratap,Australia,Oceania
+84,-36.6869010925293,140.311996459961,62,Marcollat,Australia,Oceania
+85,-36.6869010925293,140.625,76,The Gap,Australia,Oceania
+86,-36.6869010925293,140.938003540039,110,Bangham,Australia,Oceania
+87,-36.6869010925293,141.25,136,Minimay,Australia,Oceania
+88,-36.6869010925293,141.561996459961,170,Nurcoung,Australia,Oceania
+89,-36.6869010925293,141.875,154,Natimuk,Australia,Oceania
+90,-36.6869010925293,142.188003540039,125,Horsham,Australia,Oceania
+91,-36.6869010925293,142.5,101,Lubeck,Australia,Oceania
+92,-36.6869010925293,142.811996459961,149,Marnoo West,Australia,Oceania
+93,-36.6869010925293,143.125,190,Gre Gre,Australia,Oceania
+94,-36.6869010925293,143.438003540039,245,Emu,Australia,Oceania
+95,-36.6869010925293,143.75,176,Murphys Creek,Australia,Oceania
+96,-36.6869010925293,144.061996459961,158,Leichardt,Australia,Oceania
+97,-36.6869010925293,144.375,163,Bendigo,Australia,Oceania
+98,-36.6869010925293,144.688003540039,206,Muskerry,Australia,Oceania
+99,-36.6869010925293,145.0,152,Whroo,Australia,Oceania
+100,-36.6869010925293,145.311996459961,152,Wahring,Australia,Oceania
+101,-36.6869010925293,145.625,153,Balmattum,Australia,Oceania
+102,-36.6869010925293,145.938003540039,258,Warrenbayne,Australia,Oceania
+103,-36.6869010925293,146.25,325,Greta South,Australia,Oceania
+104,-36.6869010925293,146.561996459961,293,Carboor,Australia,Oceania
+105,-36.6869010925293,146.875,327,Porepunkah,Australia,Oceania
+106,-36.6869010925293,147.188003540039,619,Tawonga,Australia,Oceania
+107,-36.6869010925293,147.5,906,Mitta Mitta,Australia,Oceania
+108,-36.6869010925293,147.811996459961,832,Nariel Valley,Australia,Oceania
+109,-36.6869010925293,148.125,1310,Tom Groggin,Australia,Oceania
+110,-36.6869010925293,148.438003540039,890,Ingeegoodbee,Australia,Oceania
+111,-36.6869010925293,148.75,830,Jimenbuen,Australia,Oceania
+112,-36.6869010925293,149.061996459961,822,Bungarby,Australia,Oceania
+113,-36.6869010925293,149.375,880,Glen Allen,Australia,Oceania
+114,-36.6869010925293,149.688003540039,152,Kameruka,Australia,Oceania
+115,-36.6869010925293,174.375,50,Rodney,New Zealand / Aotearoa,Oceania
+116,-36.6869010925293,174.688003540039,65,Rodney,New Zealand / Aotearoa,Oceania
+117,-35.4379997253418,138.438003540039,266,Myponga,Australia,Oceania
+118,-35.4379997253418,138.75,35,Currency Creek,Australia,Oceania
+119,-35.4379997253418,139.375,22,Wellington East,Australia,Oceania
+120,-35.4379997253418,139.688003540039,82,Coomandook,Australia,Oceania
+121,-35.4379997253418,140.0,68,Peake,Australia,Oceania
+122,-35.4379997253418,140.311996459961,95,Parrakie,Australia,Oceania
+123,-35.4379997253418,140.625,149,Parilla,Australia,Oceania
+124,-35.4379997253418,140.938003540039,135,Pinnaroo,Australia,Oceania
+125,-35.4379997253418,141.25,120,Big Desert,Australia,Oceania
+126,-35.4379997253418,141.561996459961,120,Big Desert,Australia,Oceania
+127,-35.4379997253418,141.875,112,Big Desert,Australia,Oceania
+128,-35.4379997253418,142.188003540039,99,Patchewollock,Australia,Oceania
+129,-35.4379997253418,142.5,88,Speed,Australia,Oceania
+130,-35.4379997253418,142.811996459961,80,Lake Tyrrell,Australia,Oceania
+131,-35.4379997253418,143.125,69,Waitchie,Australia,Oceania
+132,-35.4379997253418,143.438003540039,67,Goschen,Australia,Oceania
+133,-35.4379997253418,143.75,74,Fish Point,Australia,Oceania
+134,-35.4379997253418,144.061996459961,74,Noorong,Australia,Oceania
+135,-35.4379997253418,144.375,77,Wakool,Australia,Oceania
+136,-35.4379997253418,144.688003540039,75,Calimo,Australia,Oceania
+137,-35.4379997253418,145.0,97,Wandook,Australia,Oceania
+138,-35.4379997253418,145.311996459961,95,Mayrung,Australia,Oceania
+139,-35.4379997253418,145.625,107,Jerilderie,Australia,Oceania
+140,-35.4379997253418,145.938003540039,106,Jerilderie,Australia,Oceania
+141,-35.4379997253418,146.25,114,Urana,Australia,Oceania
+142,-35.4379997253418,146.561996459961,196,Urangeline,Australia,Oceania
+143,-35.4379997253418,146.875,125,Lockhart Shire Council,Australia,Oceania
+144,-35.4379997253418,147.188003540039,304,Wagga Wagga City Council,Australia,Oceania
+145,-35.4379997253418,147.5,298,Wagga Wagga City Council,Australia,Oceania
+146,-35.4379997253418,147.811996459961,312,Wagga Wagga City Council,Australia,Oceania
+147,-35.4379997253418,148.125,515,Batlow,Australia,Oceania
+148,-35.4379997253418,148.438003540039,632,Goobarragandra,Australia,Oceania
+149,-35.4379997253418,148.75,1132,Brindabella,Australia,Oceania
+150,-35.4379997253418,149.061996459961,611,District of Paddys River,Australia,Oceania
+151,-35.4379997253418,149.375,609,Queanbeyan-Palerang Regional Council,Australia,Oceania
+152,-35.4379997253418,149.688003540039,659,Bombay,Australia,Oceania
+153,-35.4379997253418,150.0,605,Budawang,Australia,Oceania
+154,-35.4379997253418,150.311996459961,153,Shoalhaven City Council,Australia,Oceania
+155,-35.4379997253418,173.75,155,Kaikohe-Hokianga Community,New Zealand / Aotearoa,Oceania
+156,-35.4379997253418,174.061996459961,56,Bay of Islands-Whangaroa Community,New Zealand / Aotearoa,Oceania
+157,-35.4379997253418,174.375,1,Teal Bay,New Zealand / Aotearoa,Oceania
+158,-34.1890983581543,115.311996459961,32,Courtenay,Australia,Oceania
+159,-34.1890983581543,115.625,97,Darradup,Australia,Oceania
+160,-34.1890983581543,115.938003540039,157,Glenoran,Australia,Oceania
+161,-34.1890983581543,116.25,258,Balbarrup,Australia,Oceania
+162,-34.1890983581543,116.561996459961,249,Tonebridge,Australia,Oceania
+163,-34.1890983581543,116.875,265,Mobrup,Australia,Oceania
+164,-34.1890983581543,117.188003540039,245,Cranbrook,Australia,Oceania
+165,-34.1890983581543,117.5,261,Cranbrook,Australia,Oceania
+166,-34.1890983581543,117.811996459961,282,Wansbrough,Australia,Oceania
+167,-34.1890983581543,118.125,219,Magitup,Australia,Oceania
+168,-34.1890983581543,118.438003540039,223,Nalyerlup,Australia,Oceania
+169,-34.1890983581543,118.75,97,Gairdner,Australia,Oceania
+170,-34.1890983581543,119.061996459961,56,Gairdner,Australia,Oceania
+171,-34.1890983581543,119.375,222,Fitzgerald River National Park,Australia,Oceania
+172,-34.1890983581543,135.311996459961,44,Mount Hope,Australia,Oceania
+173,-34.1890983581543,135.625,76,Cummins,Australia,Oceania
+174,-34.1890983581543,135.938003540039,154,Ungarra,Australia,Oceania
+175,-34.1890983581543,136.25,76,Lipson,Australia,Oceania
+176,-34.1890983581543,137.5,9,Nalyappa,Australia,Oceania
+177,-34.1890983581543,137.811996459961,153,Sunnyvale,Australia,Oceania
+178,-34.1890983581543,138.438003540039,76,Dalkey,Australia,Oceania
+179,-34.1890983581543,138.75,283,Riverton,Australia,Oceania
+180,-34.1890983581543,139.061996459961,290,Buchanan,Australia,Oceania
+181,-34.1890983581543,139.375,86,Brownlow,Australia,Oceania
+182,-34.1890983581543,139.688003540039,19,Murbko,Australia,Oceania
+183,-34.1890983581543,140.0,18,Waikerie,Australia,Oceania
+184,-34.1890983581543,140.311996459961,19,Kingston on Murray,Australia,Oceania
+185,-34.1890983581543,140.625,35,Monash,Australia,Oceania
+186,-34.1890983581543,140.938003540039,74,Wonuarra,Australia,Oceania
+187,-34.1890983581543,141.25,36,Murray-Sunset,Australia,Oceania
+188,-34.1890983581543,141.561996459961,30,Neds Corner,Australia,Oceania
+189,-34.1890983581543,141.875,45,Wargan,Australia,Oceania
+190,-34.1890983581543,142.188003540039,39,Mildura,Australia,Oceania
+191,-34.1890983581543,142.5,106,Mallee,Australia,Oceania
+192,-34.1890983581543,142.811996459961,66,Mallee,Australia,Oceania
+193,-34.1890983581543,143.125,65,Euston,Australia,Oceania
+194,-34.1890983581543,143.438003540039,72,Balranald,Australia,Oceania
+195,-34.1890983581543,143.75,73,Balranald,Australia,Oceania
+196,-34.1890983581543,144.061996459961,69,Oxley,Australia,Oceania
+197,-34.1890983581543,144.375,69,Oxley,Australia,Oceania
+198,-34.1890983581543,144.688003540039,82,One Tree,Australia,Oceania
+199,-34.1890983581543,145.0,92,One Tree,Australia,Oceania
+200,-34.1890983581543,145.311996459961,102,Carrathool,Australia,Oceania
+201,-34.1890983581543,145.625,110,Tabbita,Australia,Oceania
+202,-34.1890983581543,145.938003540039,116,Griffith City Council,Australia,Oceania
+203,-34.1890983581543,146.25,209,Griffith City Council,Australia,Oceania
+204,-34.1890983581543,146.561996459961,152,Weethalle,Australia,Oceania
+205,-34.1890983581543,146.875,261,Ardlethan,Australia,Oceania
+206,-34.1890983581543,147.188003540039,304,Ariah Park,Australia,Oceania
+207,-34.1890983581543,147.5,304,Barmedman,Australia,Oceania
+208,-34.1890983581543,147.811996459961,304,Morangarell,Australia,Oceania
+209,-34.1890983581543,148.125,305,Thuddungra,Australia,Oceania
+210,-34.1890983581543,148.438003540039,378,Bendick Murrell,Australia,Oceania
+211,-34.1890983581543,148.75,536,Boorowa,Australia,Oceania
+212,-34.1890983581543,149.061996459961,590,Bigga,Australia,Oceania
+213,-34.1890983581543,149.375,735,Crooked Corner,Australia,Oceania
+214,-34.1890983581543,149.688003540039,851,Paling Yards,Australia,Oceania
+215,-34.1890983581543,150.0,691,Upper Lachlan Shire Council,Australia,Oceania
+216,-34.1890983581543,150.311996459961,183,Douglas Flat,Australia,Oceania
+217,-34.1890983581543,150.625,189,Picton,Australia,Oceania
+218,-34.1890983581543,150.938003540039,238,Wollongong City Council,Australia,Oceania
+219,-31.378999710083,115.625,55,Wilbinga,Australia,Oceania
+220,-31.378999710083,115.938003540039,197,Lennard Brook,Australia,Oceania
+221,-31.378999710083,116.25,307,Julimar,Australia,Oceania
+222,-31.378999710083,116.561996459961,266,Bejoording,Australia,Oceania
+223,-31.378999710083,116.875,257,Hulongine,Australia,Oceania
+224,-31.378999710083,117.188003540039,305,Watercarrin,Australia,Oceania
+225,-31.378999710083,117.5,303,North Tammin,Australia,Oceania
+226,-31.378999710083,117.811996459961,320,North Baandee,Australia,Oceania
+227,-31.378999710083,118.125,304,Nokaning,Australia,Oceania
+228,-31.378999710083,118.438003540039,364,Burracoppin,Australia,Oceania
+229,-31.378999710083,118.75,427,Bodallin,Australia,Oceania
+230,-31.378999710083,119.061996459961,436,Moorine Rock,Australia,Oceania
+231,-31.378999710083,119.375,409,Southern Cross,Australia,Oceania
+232,-31.378999710083,119.688003540039,409,Mount Palmer,Australia,Oceania
+233,-31.378999710083,120.0,396,Mount Palmer,Australia,Oceania
+234,-31.378999710083,120.311996459961,366,Victoria Rock,Australia,Oceania
+235,-31.378999710083,120.625,371,Victoria Rock,Australia,Oceania
+236,-31.378999710083,120.938003540039,403,Victoria Rock,Australia,Oceania
+237,-31.378999710083,121.25,435,Londonderry,Australia,Oceania
+238,-31.378999710083,121.561996459961,405,Widgiemooltha,Australia,Oceania
+239,-31.378999710083,121.875,417,Widgiemooltha,Australia,Oceania
+240,-31.378999710083,122.188003540039,418,Widgiemooltha,Australia,Oceania
+241,-31.378999710083,122.5,431,Emu Flat,Australia,Oceania
+242,-31.378999710083,122.811996459961,361,Cundeelee,Australia,Oceania
+243,-31.378999710083,123.125,305,Cundeelee,Australia,Oceania
+244,-31.378999710083,123.438003540039,276,Zanthus,Australia,Oceania
+245,-31.378999710083,123.75,231,Zanthus,Australia,Oceania
+246,-31.378999710083,124.061996459961,194,Zanthus,Australia,Oceania
+247,-31.378999710083,124.375,161,Zanthus,Australia,Oceania
+248,-31.378999710083,124.688003540039,180,Zanthus,Australia,Oceania
+249,-31.378999710083,125.0,174,Rawlinna,Australia,Oceania
+250,-31.378999710083,125.311996459961,159,Rawlinna,Australia,Oceania
+251,-31.378999710083,125.625,162,Rawlinna,Australia,Oceania
+252,-31.378999710083,125.938003540039,135,Rawlinna,Australia,Oceania
+253,-31.378999710083,126.25,152,Forrest,Australia,Oceania
+254,-31.378999710083,126.561996459961,157,Forrest,Australia,Oceania
+255,-31.378999710083,126.875,158,Forrest,Australia,Oceania
+256,-31.378999710083,127.188003540039,162,Mundrabilla,Australia,Oceania
+257,-31.378999710083,127.5,133,Mundrabilla,Australia,Oceania
+258,-31.378999710083,127.811996459961,80,Mundrabilla,Australia,Oceania
+259,-31.378999710083,128.125,116,Eucla,Australia,Oceania
+260,-31.378999710083,128.438003540039,126,Eucla,Australia,Oceania
+261,-31.378999710083,128.75,113,Eucla,Australia,Oceania
+262,-31.378999710083,129.061996459961,79,Nullarbor,Australia,Oceania
+263,-31.378999710083,129.375,57,Nullarbor,Australia,Oceania
+264,-31.378999710083,129.688003540039,102,Nullarbor,Australia,Oceania
+265,-31.378999710083,130.0,84,Nullarbor,Australia,Oceania
+266,-31.378999710083,130.311996459961,23,Nullarbor,Australia,Oceania
+267,-31.378999710083,130.625,13,Nullarbor,Australia,Oceania
+268,-31.378999710083,130.938003540039,40,Yalata,Australia,Oceania
+269,-31.378999710083,131.25,44,Yalata,Australia,Oceania
+270,-31.378999710083,131.561996459961,115,Yalata,Australia,Oceania
+271,-31.378999710083,131.875,105,Yalata,Australia,Oceania
+272,-31.378999710083,132.188003540039,103,Yellabinna,Australia,Oceania
+273,-31.378999710083,132.5,77,Chundaria,Australia,Oceania
+274,-31.378999710083,132.811996459961,124,Chundaria,Australia,Oceania
+275,-31.378999710083,133.125,160,Yellabinna,Australia,Oceania
+276,-31.378999710083,133.438003540039,186,Yellabinna,Australia,Oceania
+277,-31.378999710083,133.75,232,Yellabinna,Australia,Oceania
+278,-31.378999710083,134.061996459961,235,Yellabinna,Australia,Oceania
+279,-31.378999710083,134.375,158,Yellabinna,Australia,Oceania
+280,-31.378999710083,134.688003540039,130,Lake Everard,Australia,Oceania
+281,-31.378999710083,135.0,161,Lake Everard,Australia,Oceania
+282,-31.378999710083,135.311996459961,175,Kokatha,Australia,Oceania
+283,-31.378999710083,135.625,197,Kokatha,Australia,Oceania
+284,-31.378999710083,135.938003540039,160,Lake Gairdner,Australia,Oceania
+285,-31.378999710083,136.25,184,Wirraminna,Australia,Oceania
+286,-31.378999710083,136.561996459961,213,Island Lagoon,Australia,Oceania
+287,-31.378999710083,136.875,207,Arcoona,Australia,Oceania
+288,-31.378999710083,137.188003540039,131,Pernatty,Australia,Oceania
+289,-31.378999710083,137.5,298,Pernatty,Australia,Oceania
+290,-31.378999710083,137.811996459961,236,Lake Torrens,Australia,Oceania
+291,-31.378999710083,138.125,163,Lake Torrens,Australia,Oceania
+292,-31.378999710083,138.438003540039,289,Flinders Ranges,Australia,Oceania
+293,-31.378999710083,138.75,626,Flinders Ranges,Australia,Oceania
+294,-31.378999710083,139.061996459961,282,Wirrealpa,Australia,Oceania
+295,-31.378999710083,139.375,251,Martins Well,Australia,Oceania
+296,-31.378999710083,139.688003540039,73,Erudina,Australia,Oceania
+297,-31.378999710083,140.0,60,Billeroo West,Australia,Oceania
+298,-31.378999710083,140.311996459961,77,Mulyungarie,Australia,Oceania
+299,-31.378999710083,140.625,76,Mulyungarie,Australia,Oceania
+300,-31.378999710083,140.938003540039,117,Mulyungarie,Australia,Oceania
+301,-31.378999710083,141.25,216,Broughams Gate,Australia,Oceania
+302,-31.378999710083,141.561996459961,310,Fowlers Gap,Australia,Oceania
+303,-31.378999710083,141.875,285,Fowlers Gap,Australia,Oceania
+304,-31.378999710083,142.188003540039,284,Mutawintji,Australia,Oceania
+305,-31.378999710083,142.5,303,Mutawintji,Australia,Oceania
+306,-31.378999710083,142.811996459961,262,Wilcannia,Australia,Oceania
+307,-31.378999710083,143.125,197,Wilcannia,Australia,Oceania
+308,-31.378999710083,143.438003540039,216,Wilcannia,Australia,Oceania
+309,-31.378999710083,143.75,206,Tilpa,Australia,Oceania
+310,-31.378999710083,144.061996459961,89,Wilcannia,Australia,Oceania
+311,-31.378999710083,144.375,134,Tilpa,Australia,Oceania
+312,-31.378999710083,144.688003540039,234,Noona,Australia,Oceania
+313,-31.378999710083,145.0,267,Cubba,Australia,Oceania
+314,-31.378999710083,145.311996459961,283,Cubba,Australia,Oceania
+315,-31.378999710083,145.625,281,Cubba,Australia,Oceania
+316,-31.378999710083,145.938003540039,304,Tindarey,Australia,Oceania
+317,-31.378999710083,146.25,324,Canbelego,Australia,Oceania
+318,-31.378999710083,146.561996459961,310,Girilambone,Australia,Oceania
+319,-31.378999710083,146.875,219,Nyngan,Australia,Oceania
+320,-31.378999710083,147.188003540039,164,Nyngan,Australia,Oceania
+321,-31.378999710083,147.5,159,Canonba,Australia,Oceania
+322,-31.378999710083,147.811996459961,232,Marthaguy,Australia,Oceania
+323,-31.378999710083,148.125,246,Bullagreen,Australia,Oceania
+324,-31.378999710083,148.438003540039,226,Armatree,Australia,Oceania
+325,-31.378999710083,148.75,303,Tonderburine,Australia,Oceania
+326,-31.378999710083,149.061996459961,766,Gowang,Australia,Oceania
+327,-31.378999710083,149.375,623,Ulamambri,Australia,Oceania
+328,-31.378999710083,149.688003540039,565,Purlewaugh,Australia,Oceania
+329,-31.378999710083,150.0,523,Tambar Springs,Australia,Oceania
+330,-31.378999710083,150.311996459961,458,Spring Ridge,Australia,Oceania
+331,-31.378999710083,150.625,520,Werris Creek,Australia,Oceania
+332,-31.378999710083,150.938003540039,609,Garoo,Australia,Oceania
+333,-31.378999710083,151.25,1197,Hanging Rock,Australia,Oceania
+334,-31.378999710083,151.561996459961,1186,Niangala,Australia,Oceania
+335,-31.378999710083,151.875,898,Yarrowitch,Australia,Oceania
+336,-31.378999710083,152.188003540039,530,Mount Seaview,Australia,Oceania
+337,-31.378999710083,152.5,304,Hollisdale,Australia,Oceania
+338,-31.378999710083,152.811996459961,68,Blackmans Point,Australia,Oceania
+339,-27.3199996948242,114.061996459961,123,Zuytdorp,Australia,Oceania
+340,-27.3199996948242,114.375,145,Zuytdorp,Australia,Oceania
+341,-27.3199996948242,114.688003540039,163,Eurardy,Australia,Oceania
+342,-27.3199996948242,115.0,130,Coolcalalaya,Australia,Oceania
+343,-27.3199996948242,115.311996459961,156,Murchison,Australia,Oceania
+344,-27.3199996948242,115.625,251,Murchison,Australia,Oceania
+345,-27.3199996948242,115.938003540039,271,Murchison,Australia,Oceania
+346,-27.3199996948242,116.25,281,South Murchison,Australia,Oceania
+347,-27.3199996948242,116.561996459961,359,South Murchison,Australia,Oceania
+348,-27.3199996948242,116.875,403,Yalgoo,Australia,Oceania
+349,-27.3199996948242,117.188003540039,403,Weld Range,Australia,Oceania
+350,-27.3199996948242,117.5,506,Weld Range,Australia,Oceania
+351,-27.3199996948242,117.811996459961,463,Lake Austin,Australia,Oceania
+352,-27.3199996948242,118.125,498,Reedy,Australia,Oceania
+353,-27.3199996948242,118.438003540039,503,Reedy,Australia,Oceania
+354,-27.3199996948242,118.75,534,Reedy,Australia,Oceania
+355,-27.3199996948242,119.061996459961,580,Sandstone,Australia,Oceania
+356,-27.3199996948242,119.375,621,Sandstone,Australia,Oceania
+357,-27.3199996948242,119.688003540039,595,Sandstone,Australia,Oceania
+358,-27.3199996948242,120.0,525,Sandstone,Australia,Oceania
+359,-27.3199996948242,120.311996459961,567,Sir Samuel,Australia,Oceania
+360,-27.3199996948242,120.625,609,Sir Samuel,Australia,Oceania
+361,-27.3199996948242,120.938003540039,607,Lake Darlot,Australia,Oceania
+362,-27.3199996948242,121.25,577,Lake Darlot,Australia,Oceania
+363,-27.3199996948242,121.561996459961,608,Lake Darlot,Australia,Oceania
+364,-27.3199996948242,121.875,610,Lake Wells,Australia,Oceania
+365,-27.3199996948242,122.188003540039,591,Lake Wells,Australia,Oceania
+366,-27.3199996948242,122.5,587,Lake Wells,Australia,Oceania
+367,-27.3199996948242,122.811996459961,549,Lake Wells,Australia,Oceania
+368,-27.3199996948242,123.125,457,Lake Wells,Australia,Oceania
+369,-27.3199996948242,123.438003540039,568,Lake Wells,Australia,Oceania
+370,-27.3199996948242,123.75,654,Lake Wells,Australia,Oceania
+371,-27.3199996948242,124.061996459961,581,Lake Wells,Australia,Oceania
+372,-27.3199996948242,124.375,497,Lake Wells,Australia,Oceania
+373,-27.3199996948242,124.688003540039,426,Neale,Australia,Oceania
+374,-27.3199996948242,125.0,404,Neale,Australia,Oceania
+375,-27.3199996948242,125.311996459961,414,Neale,Australia,Oceania
+376,-27.3199996948242,125.625,426,Neale,Australia,Oceania
+377,-27.3199996948242,125.938003540039,455,Neale,Australia,Oceania
+378,-27.3199996948242,126.25,498,Neale,Australia,Oceania
+379,-27.3199996948242,126.561996459961,475,Beadell,Australia,Oceania
+380,-27.3199996948242,126.875,437,Beadell,Australia,Oceania
+381,-27.3199996948242,127.188003540039,443,Beadell,Australia,Oceania
+382,-27.3199996948242,127.5,450,Beadell,Australia,Oceania
+383,-27.3199996948242,127.811996459961,437,Beadell,Australia,Oceania
+384,-27.3199996948242,128.125,421,Beadell,Australia,Oceania
+385,-27.3199996948242,128.438003540039,417,Beadell,Australia,Oceania
+386,-27.3199996948242,128.75,455,Beadell,Australia,Oceania
+387,-27.3199996948242,129.061996459961,506,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+388,-27.3199996948242,129.375,629,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+389,-27.3199996948242,129.688003540039,672,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+390,-27.3199996948242,130.0,605,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+391,-27.3199996948242,130.311996459961,618,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+392,-27.3199996948242,130.625,538,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+393,-27.3199996948242,130.938003540039,508,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+394,-27.3199996948242,131.25,525,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+395,-27.3199996948242,131.561996459961,529,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+396,-27.3199996948242,131.875,617,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+397,-27.3199996948242,132.188003540039,457,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+398,-27.3199996948242,132.5,552,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+399,-27.3199996948242,132.811996459961,501,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+400,-27.3199996948242,133.125,421,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+401,-27.3199996948242,133.438003540039,387,Anangu Pitjantjatjara Yankunytjatjara,Australia,Oceania
+402,-27.3199996948242,133.75,398,Welbourn Hill,Australia,Oceania
+403,-27.3199996948242,134.061996459961,315,Welbourn Hill,Australia,Oceania
+404,-27.3199996948242,134.375,290,Todmorden,Australia,Oceania
+405,-27.3199996948242,134.688003540039,229,Todmorden,Australia,Oceania
+406,-27.3199996948242,135.0,174,Todmorden,Australia,Oceania
+407,-27.3199996948242,135.311996459961,171,Todmorden,Australia,Oceania
+408,-27.3199996948242,135.625,145,Allandale Station,Australia,Oceania
+409,-27.3199996948242,135.938003540039,132,Macumba,Australia,Oceania
+410,-27.3199996948242,136.25,117,Macumba,Australia,Oceania
+411,-27.3199996948242,136.561996459961,105,Macumba,Australia,Oceania
+412,-27.3199996948242,136.875,98,Simpson Desert,Australia,Oceania
+413,-27.3199996948242,137.188003540039,87,Simpson Desert,Australia,Oceania
+414,-27.3199996948242,137.5,71,Simpson Desert,Australia,Oceania
+415,-27.3199996948242,137.811996459961,69,Simpson Desert,Australia,Oceania
+416,-27.3199996948242,138.125,68,Cowarie,Australia,Oceania
+417,-27.3199996948242,138.438003540039,63,Cowarie,Australia,Oceania
+418,-27.3199996948242,138.75,57,Cowarie,Australia,Oceania
+419,-27.3199996948242,139.061996459961,55,Clifton Hills Station,Australia,Oceania
+420,-27.3199996948242,139.375,51,Clifton Hills Station,Australia,Oceania
+421,-27.3199996948242,139.688003540039,50,Clifton Hills Station,Australia,Oceania
+422,-27.3199996948242,140.0,48,Innamincka,Australia,Oceania
+423,-27.3199996948242,140.311996459961,47,Innamincka,Australia,Oceania
+424,-27.3199996948242,140.625,48,Innamincka,Australia,Oceania
+425,-27.3199996948242,140.938003540039,51,Innamincka,Australia,Oceania
+426,-27.3199996948242,141.25,55,Durham,Australia,Oceania
+427,-27.3199996948242,141.561996459961,53,Durham,Australia,Oceania
+428,-27.3199996948242,141.875,54,Durham,Australia,Oceania
+429,-27.3199996948242,142.188003540039,71,Durham,Australia,Oceania
+430,-27.3199996948242,142.5,80,Durham,Australia,Oceania
+431,-27.3199996948242,142.811996459961,99,Noccundra,Australia,Oceania
+432,-27.3199996948242,143.125,113,Noccundra,Australia,Oceania
+433,-27.3199996948242,143.438003540039,147,Thargomindah,Australia,Oceania
+434,-27.3199996948242,143.75,170,Quilpie,Australia,Oceania
+435,-27.3199996948242,144.061996459961,185,Quilpie,Australia,Oceania
+436,-27.3199996948242,144.375,218,Quilpie,Australia,Oceania
+437,-27.3199996948242,144.688003540039,251,Quilpie,Australia,Oceania
+438,-27.3199996948242,145.0,240,Quilpie,Australia,Oceania
+439,-27.3199996948242,145.311996459961,237,Humeburn,Australia,Oceania
+440,-27.3199996948242,145.625,233,Wyandra,Australia,Oceania
+441,-27.3199996948242,145.938003540039,224,Wyandra,Australia,Oceania
+442,-27.3199996948242,146.25,214,Wyandra,Australia,Oceania
+443,-27.3199996948242,146.561996459961,236,Wyandra,Australia,Oceania
+444,-27.3199996948242,146.875,230,Boatman,Australia,Oceania
+445,-27.3199996948242,147.188003540039,305,Bargunyah,Australia,Oceania
+446,-27.3199996948242,147.5,286,Bargunyah,Australia,Oceania
+447,-27.3199996948242,147.811996459961,287,Dunkeld,Australia,Oceania
+448,-27.3199996948242,148.125,274,Dunkeld,Australia,Oceania
+449,-27.3199996948242,148.438003540039,261,Begonia,Australia,Oceania
+450,-27.3199996948242,148.75,234,Ballaroo,Australia,Oceania
+451,-27.3199996948242,149.061996459961,304,Parknook,Australia,Oceania
+452,-27.3199996948242,149.375,308,Teelba,Australia,Oceania
+453,-27.3199996948242,149.688003540039,303,Glenmorgan,Australia,Oceania
+454,-27.3199996948242,150.0,289,Hannaford,Australia,Oceania
+455,-27.3199996948242,150.311996459961,302,Tara,Australia,Oceania
+456,-27.3199996948242,150.625,390,Goranba,Australia,Oceania
+457,-27.3199996948242,150.938003540039,376,Kumbarilla,Australia,Oceania
+458,-27.3199996948242,151.25,387,St Ruth,Australia,Oceania
+459,-27.3199996948242,151.561996459961,499,Malu,Australia,Oceania
+460,-27.3199996948242,151.875,584,Goombungee,Australia,Oceania
+461,-27.3199996948242,152.188003540039,496,Ravensbourne,Australia,Oceania
+462,-27.3199996948242,152.5,148,Moombra,Australia,Oceania
+463,-27.3199996948242,152.811996459961,307,Mount Samson,Australia,Oceania
+464,-24.5100002288818,113.438003540039,11,Macleod,Australia,Oceania
+465,-24.5100002288818,113.75,65,Macleod,Australia,Oceania
+466,-24.5100002288818,114.061996459961,112,Yandoo Creek,Australia,Oceania
+467,-24.5100002288818,114.375,167,Yandoo Creek,Australia,Oceania
+468,-24.5100002288818,114.688003540039,236,Kennedy Range,Australia,Oceania
+469,-24.5100002288818,115.0,307,West Lyons River,Australia,Oceania
+470,-24.5100002288818,115.311996459961,199,West Lyons River,Australia,Oceania
+471,-24.5100002288818,115.625,297,West Lyons River,Australia,Oceania
+472,-24.5100002288818,115.938003540039,304,West Lyons River,Australia,Oceania
+473,-24.5100002288818,116.25,312,West Lyons River,Australia,Oceania
+474,-24.5100002288818,116.561996459961,355,West Lyons River,Australia,Oceania
+475,-24.5100002288818,116.875,495,West Lyons River,Australia,Oceania
+476,-24.5100002288818,117.188003540039,593,East Lyons River,Australia,Oceania
+477,-24.5100002288818,117.5,526,East Lyons River,Australia,Oceania
+478,-24.5100002288818,117.811996459961,601,Peak Hill,Australia,Oceania
+479,-24.5100002288818,118.125,563,Peak Hill,Australia,Oceania
+480,-24.5100002288818,118.438003540039,535,Peak Hill,Australia,Oceania
+481,-24.5100002288818,118.75,531,Capricorn,Australia,Oceania
+482,-24.5100002288818,119.061996459961,566,Capricorn,Australia,Oceania
+483,-24.5100002288818,119.375,586,Kumarina,Australia,Oceania
+484,-24.5100002288818,119.688003540039,629,Kumarina,Australia,Oceania
+485,-24.5100002288818,120.0,611,Kumarina,Australia,Oceania
+486,-24.5100002288818,120.311996459961,595,Little Sandy Desert,Australia,Oceania
+487,-24.5100002288818,120.625,555,Little Sandy Desert,Australia,Oceania
+488,-24.5100002288818,120.938003540039,536,Little Sandy Desert,Australia,Oceania
+489,-24.5100002288818,121.25,544,Little Sandy Desert,Australia,Oceania
+490,-24.5100002288818,121.561996459961,549,Little Sandy Desert,Australia,Oceania
+491,-24.5100002288818,121.875,540,Little Sandy Desert,Australia,Oceania
+492,-24.5100002288818,122.188003540039,521,Little Sandy Desert,Australia,Oceania
+493,-24.5100002288818,122.5,486,Little Sandy Desert,Australia,Oceania
+494,-24.5100002288818,122.811996459961,470,Little Sandy Desert,Australia,Oceania
+495,-24.5100002288818,123.125,498,Little Sandy Desert,Australia,Oceania
+496,-24.5100002288818,123.438003540039,494,Little Sandy Desert,Australia,Oceania
+497,-24.5100002288818,123.75,520,Little Sandy Desert,Australia,Oceania
+498,-24.5100002288818,124.061996459961,534,Little Sandy Desert,Australia,Oceania
+499,-24.5100002288818,124.375,520,Little Sandy Desert,Australia,Oceania
+500,-24.5100002288818,124.688003540039,513,Gibson Desert South,Australia,Oceania
+501,-24.5100002288818,125.0,485,Gibson Desert South,Australia,Oceania
+502,-24.5100002288818,125.311996459961,498,Gibson Desert South,Australia,Oceania
+503,-24.5100002288818,125.625,498,Gibson Desert South,Australia,Oceania
+504,-24.5100002288818,125.938003540039,414,Gibson Desert South,Australia,Oceania
+505,-24.5100002288818,126.25,495,Gibson Desert South,Australia,Oceania
+506,-24.5100002288818,126.561996459961,477,Gibson Desert South,Australia,Oceania
+507,-24.5100002288818,126.875,448,Gibson Desert South,Australia,Oceania
+508,-24.5100002288818,127.188003540039,426,Gibson Desert South,Australia,Oceania
+509,-24.5100002288818,127.5,474,Gibson Desert South,Australia,Oceania
+510,-24.5100002288818,127.811996459961,571,Ngaanyatjarra-giles,Australia,Oceania
+511,-24.5100002288818,128.125,685,Ngaanyatjarra-giles,Australia,Oceania
+512,-24.5100002288818,128.438003540039,663,Ngaanyatjarra-giles,Australia,Oceania
+513,-24.5100002288818,128.75,677,Ngaanyatjarra-giles,Australia,Oceania
+514,-24.5100002288818,129.061996459961,663,Petermann,Australia,Oceania
+515,-24.5100002288818,129.375,708,Petermann,Australia,Oceania
+516,-24.5100002288818,129.688003540039,708,Petermann,Australia,Oceania
+517,-24.5100002288818,130.0,511,Petermann,Australia,Oceania
+518,-24.5100002288818,130.311996459961,494,Petermann,Australia,Oceania
+519,-24.5100002288818,130.625,522,Petermann,Australia,Oceania
+520,-24.5100002288818,130.938003540039,549,Petermann,Australia,Oceania
+521,-24.5100002288818,131.25,547,Petermann,Australia,Oceania
+522,-24.5100002288818,131.561996459961,572,Petermann,Australia,Oceania
+523,-24.5100002288818,131.875,601,Petermann,Australia,Oceania
+524,-24.5100002288818,132.188003540039,610,Petermann,Australia,Oceania
+525,-24.5100002288818,132.5,518,Petermann,Australia,Oceania
+526,-24.5100002288818,132.811996459961,510,Ghan,Australia,Oceania
+527,-24.5100002288818,133.125,491,Ghan,Australia,Oceania
+528,-24.5100002288818,133.438003540039,440,Ghan,Australia,Oceania
+529,-24.5100002288818,133.75,426,Ghan,Australia,Oceania
+530,-24.5100002288818,134.061996459961,473,Hugh,Australia,Oceania
+531,-24.5100002288818,134.375,423,Hale,Australia,Oceania
+532,-24.5100002288818,134.688003540039,307,Hale,Australia,Oceania
+533,-24.5100002288818,135.0,284,Ghan,Australia,Oceania
+534,-24.5100002288818,135.311996459961,252,Ghan,Australia,Oceania
+535,-24.5100002288818,135.625,222,Hale,Australia,Oceania
+536,-24.5100002288818,135.938003540039,225,Hale,Australia,Oceania
+537,-24.5100002288818,136.25,187,Simpson,Australia,Oceania
+538,-24.5100002288818,136.561996459961,162,Simpson,Australia,Oceania
+539,-24.5100002288818,136.875,139,Simpson,Australia,Oceania
+540,-24.5100002288818,137.188003540039,121,Simpson,Australia,Oceania
+541,-24.5100002288818,137.5,107,Simpson,Australia,Oceania
+542,-24.5100002288818,137.811996459961,97,Simpson,Australia,Oceania
+543,-24.5100002288818,138.125,88,Birdsville,Australia,Oceania
+544,-24.5100002288818,138.438003540039,83,Bedourie,Australia,Oceania
+545,-24.5100002288818,138.75,82,Bedourie,Australia,Oceania
+546,-24.5100002288818,139.061996459961,93,Bedourie,Australia,Oceania
+547,-24.5100002288818,139.375,99,Bedourie,Australia,Oceania
+548,-24.5100002288818,139.688003540039,100,Bedourie,Australia,Oceania
+549,-24.5100002288818,140.0,103,Bedourie,Australia,Oceania
+550,-24.5100002288818,140.311996459961,104,Bedourie,Australia,Oceania
+551,-24.5100002288818,140.625,101,Diamantina Lakes,Australia,Oceania
+552,-24.5100002288818,140.938003540039,120,Diamantina Lakes,Australia,Oceania
+553,-24.5100002288818,141.25,130,Diamantina Lakes,Australia,Oceania
+554,-24.5100002288818,141.561996459961,139,Diamantina Lakes,Australia,Oceania
+555,-24.5100002288818,141.875,143,Diamantina Lakes,Australia,Oceania
+556,-24.5100002288818,142.188003540039,160,Stonehenge,Australia,Oceania
+557,-24.5100002288818,142.5,190,Stonehenge,Australia,Oceania
+558,-24.5100002288818,142.811996459961,189,Stonehenge,Australia,Oceania
+559,-24.5100002288818,143.125,179,Stonehenge,Australia,Oceania
+560,-24.5100002288818,143.438003540039,208,Stonehenge,Australia,Oceania
+561,-24.5100002288818,143.75,304,Stonehenge,Australia,Oceania
+562,-24.5100002288818,144.061996459961,229,Isisford,Australia,Oceania
+563,-24.5100002288818,144.375,271,Isisford,Australia,Oceania
+564,-24.5100002288818,144.688003540039,285,Blackall,Australia,Oceania
+565,-24.5100002288818,145.0,282,Blackall,Australia,Oceania
+566,-24.5100002288818,145.311996459961,279,Blackall,Australia,Oceania
+567,-24.5100002288818,145.625,310,Blackall,Australia,Oceania
+568,-24.5100002288818,145.938003540039,373,Blackall,Australia,Oceania
+569,-24.5100002288818,146.25,384,Windeyer,Australia,Oceania
+570,-24.5100002288818,146.561996459961,597,Windeyer,Australia,Oceania
+571,-24.5100002288818,146.875,475,Mantuan Downs,Australia,Oceania
+572,-24.5100002288818,147.188003540039,361,Mantuan Downs,Australia,Oceania
+573,-24.5100002288818,147.5,393,Buckland,Australia,Oceania
+574,-24.5100002288818,147.811996459961,484,Buckland,Australia,Oceania
+575,-24.5100002288818,148.125,551,Wealwandangie,Australia,Oceania
+576,-24.5100002288818,148.438003540039,259,Albinia,Australia,Oceania
+577,-24.5100002288818,148.75,282,Coorumbene,Australia,Oceania
+578,-24.5100002288818,149.061996459961,362,Goomally,Australia,Oceania
+579,-24.5100002288818,149.375,222,Oombabeer,Australia,Oceania
+580,-24.5100002288818,149.688003540039,197,Oombabeer,Australia,Oceania
+581,-24.5100002288818,150.0,239,Moura,Australia,Oceania
+582,-24.5100002288818,150.311996459961,364,Banana,Australia,Oceania
+583,-24.5100002288818,150.625,296,Thangool,Australia,Oceania
+584,-24.5100002288818,150.938003540039,610,Valentine Plains,Australia,Oceania
+585,-24.5100002288818,151.25,574,Boyne Valley,Australia,Oceania
+586,-24.5100002288818,151.561996459961,258,Colosseum,Australia,Oceania
+587,-24.5100002288818,151.875,96,Euleilah,Australia,Oceania
+588,-23.2609996795654,114.061996459961,56,Lyndon,Australia,Oceania
+589,-23.2609996795654,114.375,109,Lyndon,Australia,Oceania
+590,-23.2609996795654,114.688003540039,122,Yannarie,Australia,Oceania
+591,-23.2609996795654,115.0,160,Yannarie,Australia,Oceania
+592,-23.2609996795654,115.311996459961,184,Yannarie,Australia,Oceania
+593,-23.2609996795654,115.625,224,Innawanga,Australia,Oceania
+594,-23.2609996795654,115.938003540039,340,Innawanga,Australia,Oceania
+595,-23.2609996795654,116.25,306,Innawanga,Australia,Oceania
+596,-23.2609996795654,116.561996459961,249,Innawanga,Australia,Oceania
+597,-23.2609996795654,116.875,202,Innawanga,Australia,Oceania
+598,-23.2609996795654,117.188003540039,274,Innawanga,Australia,Oceania
+599,-23.2609996795654,117.5,338,Innawanga,Australia,Oceania
+600,-23.2609996795654,117.811996459961,556,Rocklea,Australia,Oceania
+601,-23.2609996795654,118.125,396,Rocklea,Australia,Oceania
+602,-23.2609996795654,118.438003540039,562,Rocklea,Australia,Oceania
+603,-23.2609996795654,118.75,887,Newman,Australia,Oceania
+604,-23.2609996795654,119.061996459961,750,Newman,Australia,Oceania
+605,-23.2609996795654,119.375,662,Newman,Australia,Oceania
+606,-23.2609996795654,119.688003540039,609,Newman,Australia,Oceania
+607,-23.2609996795654,120.0,560,Newman,Australia,Oceania
+608,-23.2609996795654,120.311996459961,559,Newman,Australia,Oceania
+609,-23.2609996795654,120.625,557,Newman,Australia,Oceania
+610,-23.2609996795654,120.938003540039,562,Telfer,Australia,Oceania
+611,-23.2609996795654,121.25,534,Telfer,Australia,Oceania
+612,-23.2609996795654,121.561996459961,494,Telfer,Australia,Oceania
+613,-23.2609996795654,121.875,495,Telfer,Australia,Oceania
+614,-23.2609996795654,122.188003540039,448,Telfer,Australia,Oceania
+615,-23.2609996795654,122.5,403,Telfer,Australia,Oceania
+616,-23.2609996795654,122.811996459961,402,Gibson Desert North,Australia,Oceania
+617,-23.2609996795654,123.125,342,Gibson Desert North,Australia,Oceania
+618,-23.2609996795654,123.438003540039,402,Gibson Desert North,Australia,Oceania
+619,-23.2609996795654,123.75,420,Gibson Desert North,Australia,Oceania
+620,-23.2609996795654,124.061996459961,408,Gibson Desert North,Australia,Oceania
+621,-23.2609996795654,124.375,363,Gibson Desert North,Australia,Oceania
+622,-23.2609996795654,124.688003540039,373,Gibson Desert North,Australia,Oceania
+623,-23.2609996795654,125.0,379,Gibson Desert North,Australia,Oceania
+624,-23.2609996795654,125.311996459961,401,Gibson Desert North,Australia,Oceania
+625,-23.2609996795654,125.625,404,Gibson Desert North,Australia,Oceania
+626,-23.2609996795654,125.938003540039,411,Gibson Desert North,Australia,Oceania
+627,-23.2609996795654,126.25,408,Gibson Desert North,Australia,Oceania
+628,-23.2609996795654,126.561996459961,415,Gibson Desert North,Australia,Oceania
+629,-23.2609996795654,126.875,410,Gibson Desert North,Australia,Oceania
+630,-23.2609996795654,127.188003540039,371,Gibson Desert North,Australia,Oceania
+631,-23.2609996795654,127.5,442,Gibson Desert North,Australia,Oceania
+632,-23.2609996795654,127.811996459961,487,Gibson Desert North,Australia,Oceania
+633,-23.2609996795654,128.125,481,Gibson Desert North,Australia,Oceania
+634,-23.2609996795654,128.438003540039,438,Gibson Desert North,Australia,Oceania
+635,-23.2609996795654,128.75,523,Gibson Desert North,Australia,Oceania
+636,-23.2609996795654,129.061996459961,668,Lake Mackay,Australia,Oceania
+637,-23.2609996795654,129.375,783,Lake Mackay,Australia,Oceania
+638,-23.2609996795654,129.688003540039,475,Lake Mackay,Australia,Oceania
+639,-23.2609996795654,130.0,549,Lake Mackay,Australia,Oceania
+640,-23.2609996795654,130.311996459961,739,Lake Mackay,Australia,Oceania
+641,-23.2609996795654,130.625,617,Lake Mackay,Australia,Oceania
+642,-23.2609996795654,130.938003540039,597,Lake Mackay,Australia,Oceania
+643,-23.2609996795654,131.25,635,Mount Liebig,Australia,Oceania
+644,-23.2609996795654,131.561996459961,700,Kunparrka,Australia,Oceania
+645,-23.2609996795654,131.875,543,Kunparrka,Australia,Oceania
+646,-23.2609996795654,132.188003540039,613,Mount Zeil,Australia,Oceania
+647,-23.2609996795654,132.5,570,Mount Zeil,Australia,Oceania
+648,-23.2609996795654,132.811996459961,581,Mount Zeil,Australia,Oceania
+649,-23.2609996795654,133.125,599,Burt Plain,Australia,Oceania
+650,-23.2609996795654,133.438003540039,689,Burt Plain,Australia,Oceania
+651,-23.2609996795654,133.75,795,Burt Plain,Australia,Oceania
+652,-23.2609996795654,134.061996459961,838,Burt Plain,Australia,Oceania
+653,-23.2609996795654,134.375,804,Hart,Australia,Oceania
+654,-23.2609996795654,134.688003540039,615,Hart,Australia,Oceania
+655,-23.2609996795654,135.0,659,Hart,Australia,Oceania
+656,-23.2609996795654,135.311996459961,605,Hart,Australia,Oceania
+657,-23.2609996795654,135.625,486,Hart,Australia,Oceania
+658,-23.2609996795654,135.938003540039,370,Hart,Australia,Oceania
+659,-23.2609996795654,136.25,313,Anatye,Australia,Oceania
+660,-23.2609996795654,136.561996459961,255,Anatye,Australia,Oceania
+661,-23.2609996795654,136.875,231,Anatye,Australia,Oceania
+662,-23.2609996795654,137.188003540039,316,Anatye,Australia,Oceania
+663,-23.2609996795654,137.5,236,Anatye,Australia,Oceania
+664,-23.2609996795654,137.811996459961,224,Anatye,Australia,Oceania
+665,-23.2609996795654,138.125,168,Sturt,Australia,Oceania
+666,-23.2609996795654,138.438003540039,143,Sturt,Australia,Oceania
+667,-23.2609996795654,138.75,120,Toko,Australia,Oceania
+668,-23.2609996795654,139.061996459961,129,Amaroo,Australia,Oceania
+669,-23.2609996795654,139.375,129,Amaroo,Australia,Oceania
+670,-23.2609996795654,139.688003540039,128,Amaroo,Australia,Oceania
+671,-23.2609996795654,140.0,129,Wills,Australia,Oceania
+672,-23.2609996795654,140.311996459961,130,Wills,Australia,Oceania
+673,-23.2609996795654,140.625,137,Diamantina Lakes,Australia,Oceania
+674,-23.2609996795654,140.938003540039,141,Middleton,Australia,Oceania
+675,-23.2609996795654,141.25,151,Middleton,Australia,Oceania
+676,-23.2609996795654,141.561996459961,161,Middleton,Australia,Oceania
+677,-23.2609996795654,141.875,160,Opalton,Australia,Oceania
+678,-23.2609996795654,142.188003540039,160,Opalton,Australia,Oceania
+679,-23.2609996795654,142.5,154,Opalton,Australia,Oceania
+680,-23.2609996795654,142.811996459961,160,Opalton,Australia,Oceania
+681,-23.2609996795654,143.125,270,Longreach,Australia,Oceania
+682,-23.2609996795654,143.438003540039,247,Longreach,Australia,Oceania
+683,-23.2609996795654,143.75,207,Longreach,Australia,Oceania
+684,-23.2609996795654,144.061996459961,205,Longreach,Australia,Oceania
+685,-23.2609996795654,144.375,211,Longreach,Australia,Oceania
+686,-23.2609996795654,144.688003540039,240,Ilfracombe,Australia,Oceania
+687,-23.2609996795654,145.0,253,Barcaldine,Australia,Oceania
+688,-23.2609996795654,145.311996459961,265,Barcaldine,Australia,Oceania
+689,-23.2609996795654,145.625,336,Barcaldine,Australia,Oceania
+690,-23.2609996795654,145.938003540039,360,Jericho,Australia,Oceania
+691,-23.2609996795654,146.25,342,Alpha,Australia,Oceania
+692,-23.2609996795654,146.561996459961,307,Alpha,Australia,Oceania
+693,-23.2609996795654,146.875,307,Alpha,Australia,Oceania
+694,-23.2609996795654,147.188003540039,443,Quetta,Australia,Oceania
+695,-23.2609996795654,147.5,292,Argyll,Australia,Oceania
+696,-23.2609996795654,147.811996459961,244,Carbine Creek,Australia,Oceania
+697,-23.2609996795654,148.125,174,Gordonstone,Australia,Oceania
+698,-23.2609996795654,148.438003540039,232,Lilyvale,Australia,Oceania
+699,-23.2609996795654,148.75,177,Mackenzie River,Australia,Oceania
+700,-23.2609996795654,149.061996459961,157,Jellinbah,Australia,Oceania
+701,-23.2609996795654,149.375,154,Alsace,Australia,Oceania
+702,-23.2609996795654,149.688003540039,283,Balcomba,Australia,Oceania
+703,-23.2609996795654,150.0,274,Morinish,Australia,Oceania
+704,-23.2609996795654,150.311996459961,28,Ridgelands,Australia,Oceania
+705,-23.2609996795654,150.625,99,Ironpot,Australia,Oceania
+706,-20.451000213623,118.125,1,Mundabullangana,Australia,Oceania
+707,-20.451000213623,118.438003540039,10,Mundabullangana,Australia,Oceania
+708,-20.451000213623,118.75,36,Pippingarra,Australia,Oceania
+709,-20.451000213623,119.061996459961,63,Strelley,Australia,Oceania
+710,-20.451000213623,119.375,61,De Grey,Australia,Oceania
+711,-20.451000213623,119.688003540039,70,Marble Bar,Australia,Oceania
+712,-20.451000213623,120.0,129,Marble Bar,Australia,Oceania
+713,-20.451000213623,120.311996459961,181,Marble Bar,Australia,Oceania
+714,-20.451000213623,120.625,142,Telfer,Australia,Oceania
+715,-20.451000213623,120.938003540039,282,Telfer,Australia,Oceania
+716,-20.451000213623,121.25,299,Telfer,Australia,Oceania
+717,-20.451000213623,121.561996459961,258,Telfer,Australia,Oceania
+718,-20.451000213623,121.875,259,Telfer,Australia,Oceania
+719,-20.451000213623,122.188003540039,234,Telfer,Australia,Oceania
+720,-20.451000213623,122.5,181,Telfer,Australia,Oceania
+721,-20.451000213623,122.811996459961,263,Telfer,Australia,Oceania
+722,-20.451000213623,123.125,228,Telfer,Australia,Oceania
+723,-20.451000213623,123.438003540039,217,Telfer,Australia,Oceania
+724,-20.451000213623,123.75,249,Telfer,Australia,Oceania
+725,-20.451000213623,124.061996459961,275,Telfer,Australia,Oceania
+726,-20.451000213623,124.375,295,Telfer,Australia,Oceania
+727,-20.451000213623,124.688003540039,315,Telfer,Australia,Oceania
+728,-20.451000213623,125.0,331,Telfer,Australia,Oceania
+729,-20.451000213623,125.311996459961,302,Telfer,Australia,Oceania
+730,-20.451000213623,125.625,297,Telfer,Australia,Oceania
+731,-20.451000213623,125.938003540039,298,Telfer,Australia,Oceania
+732,-20.451000213623,126.25,347,Tanami,Australia,Oceania
+733,-20.451000213623,126.561996459961,417,Tanami,Australia,Oceania
+734,-20.451000213623,126.875,369,Tanami,Australia,Oceania
+735,-20.451000213623,127.188003540039,320,Tanami,Australia,Oceania
+736,-20.451000213623,127.5,356,Tanami,Australia,Oceania
+737,-20.451000213623,127.811996459961,405,Tanami,Australia,Oceania
+738,-20.451000213623,128.125,441,Tanami,Australia,Oceania
+739,-20.451000213623,128.438003540039,405,Tanami,Australia,Oceania
+740,-20.451000213623,128.75,400,Tanami,Australia,Oceania
+741,-20.451000213623,129.061996459961,461,Tanami,Australia,Oceania
+742,-20.451000213623,129.375,494,Tanami,Australia,Oceania
+743,-20.451000213623,129.688003540039,417,Tanami,Australia,Oceania
+744,-20.451000213623,130.0,385,Tanami,Australia,Oceania
+745,-20.451000213623,130.311996459961,401,Tanami,Australia,Oceania
+746,-20.451000213623,130.625,434,Tanami,Australia,Oceania
+747,-20.451000213623,130.938003540039,460,Tanami,Australia,Oceania
+748,-20.451000213623,131.25,448,Tanami,Australia,Oceania
+749,-20.451000213623,131.561996459961,425,Tanami,Australia,Oceania
+750,-20.451000213623,131.875,375,Tanami,Australia,Oceania
+751,-20.451000213623,132.188003540039,403,Anmatjere,Australia,Oceania
+752,-20.451000213623,132.5,364,Warumungu,Australia,Oceania
+753,-20.451000213623,132.811996459961,368,Warumungu,Australia,Oceania
+754,-20.451000213623,133.125,362,Warumungu,Australia,Oceania
+755,-20.451000213623,133.438003540039,366,Warumungu,Australia,Oceania
+756,-20.451000213623,133.75,347,Warumungu,Australia,Oceania
+757,-20.451000213623,134.061996459961,357,Warumungu,Australia,Oceania
+758,-20.451000213623,134.375,373,Warumungu,Australia,Oceania
+759,-20.451000213623,134.688003540039,410,Davenport,Australia,Oceania
+760,-20.451000213623,135.0,332,Davenport,Australia,Oceania
+761,-20.451000213623,135.311996459961,318,Davenport,Australia,Oceania
+762,-20.451000213623,135.625,301,Costello,Australia,Oceania
+763,-20.451000213623,135.938003540039,275,Costello,Australia,Oceania
+764,-20.451000213623,136.25,267,Costello,Australia,Oceania
+765,-20.451000213623,136.561996459961,287,Costello,Australia,Oceania
+766,-20.451000213623,136.875,278,Costello,Australia,Oceania
+767,-20.451000213623,137.188003540039,217,Ranken,Australia,Oceania
+768,-20.451000213623,137.5,218,Ranken,Australia,Oceania
+769,-20.451000213623,137.811996459961,221,Ranken,Australia,Oceania
+770,-20.451000213623,138.125,235,Barkly,Australia,Oceania
+771,-20.451000213623,138.438003540039,281,Barkly,Australia,Oceania
+772,-20.451000213623,138.75,304,Barkly,Australia,Oceania
+773,-20.451000213623,139.061996459961,403,Barkly,Australia,Oceania
+774,-20.451000213623,139.375,434,Mount Isa,Australia,Oceania
+775,-20.451000213623,139.688003540039,340,Mount Isa,Australia,Oceania
+776,-20.451000213623,140.0,300,Mount Isa,Australia,Oceania
+777,-20.451000213623,140.311996459961,223,Cloncurry,Australia,Oceania
+778,-20.451000213623,140.625,253,Cloncurry,Australia,Oceania
+779,-20.451000213623,140.938003540039,231,Cloncurry,Australia,Oceania
+780,-20.451000213623,141.25,223,Julia Creek,Australia,Oceania
+781,-20.451000213623,141.561996459961,190,Taldora,Australia,Oceania
+782,-20.451000213623,141.875,195,Julia Creek,Australia,Oceania
+783,-20.451000213623,142.188003540039,171,Malpas-Trenton,Australia,Oceania
+784,-20.451000213623,142.5,195,Cambridge,Australia,Oceania
+785,-20.451000213623,142.811996459961,223,Cambridge,Australia,Oceania
+786,-20.451000213623,143.125,261,Burleigh,Australia,Oceania
+787,-20.451000213623,143.438003540039,294,Richmond,Australia,Oceania
+788,-20.451000213623,143.75,342,Dutton River,Australia,Oceania
+789,-20.451000213623,144.061996459961,458,Dutton River,Australia,Oceania
+790,-20.451000213623,144.375,553,Porcupine,Australia,Oceania
+791,-20.451000213623,144.688003540039,597,Porcupine,Australia,Oceania
+792,-20.451000213623,145.0,612,Pentland,Australia,Oceania
+793,-20.451000213623,145.311996459961,525,Pentland,Australia,Oceania
+794,-20.451000213623,145.625,425,Homestead,Australia,Oceania
+795,-20.451000213623,145.938003540039,287,Campaspe,Australia,Oceania
+796,-20.451000213623,146.25,293,Campaspe,Australia,Oceania
+797,-20.451000213623,146.561996459961,312,Seventy Mile,Australia,Oceania
+798,-20.451000213623,146.875,263,Seventy Mile,Australia,Oceania
+799,-20.451000213623,147.188003540039,342,Ravenswood,Australia,Oceania
+800,-20.451000213623,147.5,119,Springlands,Australia,Oceania
+801,-20.451000213623,147.811996459961,305,Bogie,Australia,Oceania
+802,-20.451000213623,148.125,264,Bogie,Australia,Oceania
+803,-20.451000213623,148.438003540039,167,Kelsey Creek,Australia,Oceania
+804,-20.451000213623,148.75,36,Cape Conway,Australia,Oceania
+805,-20.451000213623,164.375,186,Koumac,France,Oceania
+806,-16.3920001983643,123.75,1,Kimbolton,Australia,Oceania
+807,-16.3920001983643,124.061996459961,38,Kimbolton,Australia,Oceania
+808,-16.3920001983643,124.375,205,Kimbolton,Australia,Oceania
+809,-16.3920001983643,124.688003540039,-9999,Shire Of Derby-West Kimberley,Australia,Oceania
+810,-16.3920001983643,125.0,58,King Leopold Ranges,Australia,Oceania
+811,-16.3920001983643,125.311996459961,329,King Leopold Ranges,Australia,Oceania
+812,-16.3920001983643,125.625,469,King Leopold Ranges,Australia,Oceania
+813,-16.3920001983643,125.938003540039,621,King Leopold Ranges,Australia,Oceania
+814,-16.3920001983643,126.25,595,Gibb,Australia,Oceania
+815,-16.3920001983643,126.561996459961,535,Gibb,Australia,Oceania
+816,-16.3920001983643,126.875,415,Gibb,Australia,Oceania
+817,-16.3920001983643,127.188003540039,393,Durack,Australia,Oceania
+818,-16.3920001983643,127.5,441,Durack,Australia,Oceania
+819,-16.3920001983643,127.811996459961,423,Durack,Australia,Oceania
+820,-16.3920001983643,128.125,310,Durack,Australia,Oceania
+821,-16.3920001983643,128.438003540039,280,Durack,Australia,Oceania
+822,-16.3920001983643,128.75,81,Lake Argyle,Australia,Oceania
+823,-16.3920001983643,129.061996459961,165,Baines,Australia,Oceania
+824,-16.3920001983643,129.375,177,Baines,Australia,Oceania
+825,-16.3920001983643,129.688003540039,129,Baines,Australia,Oceania
+826,-16.3920001983643,130.0,320,Gregory,Australia,Oceania
+827,-16.3920001983643,130.311996459961,259,Gregory,Australia,Oceania
+828,-16.3920001983643,130.625,177,Gregory,Australia,Oceania
+829,-16.3920001983643,130.938003540039,73,Victoria River,Australia,Oceania
+830,-16.3920001983643,131.25,112,Victoria River,Australia,Oceania
+831,-16.3920001983643,131.561996459961,145,Victoria River,Australia,Oceania
+832,-16.3920001983643,131.875,195,Victoria River,Australia,Oceania
+833,-16.3920001983643,132.188003540039,234,Victoria River,Australia,Oceania
+834,-16.3920001983643,132.5,255,Victoria River,Australia,Oceania
+835,-16.3920001983643,132.811996459961,219,Birdum,Australia,Oceania
+836,-16.3920001983643,133.125,229,Birdum,Australia,Oceania
+837,-16.3920001983643,133.438003540039,240,Birdum,Australia,Oceania
+838,-16.3920001983643,133.75,259,Birdum,Australia,Oceania
+839,-16.3920001983643,134.061996459961,251,Arnold,Australia,Oceania
+840,-16.3920001983643,134.375,230,Arnold,Australia,Oceania
+841,-16.3920001983643,134.688003540039,206,Arnold,Australia,Oceania
+842,-16.3920001983643,135.0,165,Mcarthur,Australia,Oceania
+843,-16.3920001983643,135.311996459961,134,Mcarthur,Australia,Oceania
+844,-16.3920001983643,135.625,113,Mcarthur,Australia,Oceania
+845,-16.3920001983643,135.938003540039,70,Mcarthur,Australia,Oceania
+846,-16.3920001983643,136.25,63,Mcarthur,Australia,Oceania
+847,-16.3920001983643,136.561996459961,61,Mcarthur,Australia,Oceania
+848,-16.3920001983643,136.875,59,Calvert,Australia,Oceania
+849,-16.3920001983643,137.188003540039,66,Calvert,Australia,Oceania
+850,-16.3920001983643,137.5,58,Calvert,Australia,Oceania
+851,-16.3920001983643,137.811996459961,1,Calvert,Australia,Oceania
+852,-16.3920001983643,141.561996459961,9,Yagoonya,Australia,Oceania
+853,-16.3920001983643,141.875,21,Maramie,Australia,Oceania
+854,-16.3920001983643,142.188003540039,37,Maramie,Australia,Oceania
+855,-16.3920001983643,142.5,52,Maramie,Australia,Oceania
+856,-16.3920001983643,142.811996459961,69,Staaten,Australia,Oceania
+857,-16.3920001983643,143.125,91,Highbury,Australia,Oceania
+858,-16.3920001983643,143.438003540039,123,Gamboola,Australia,Oceania
+859,-16.3920001983643,143.75,184,Gamboola,Australia,Oceania
+860,-16.3920001983643,144.061996459961,271,Mount Mulgrave,Australia,Oceania
+861,-16.3920001983643,144.375,301,Groganville,Australia,Oceania
+862,-16.3920001983643,144.688003540039,512,Desailly,Australia,Oceania
+863,-16.3920001983643,145.0,559,Desailly,Australia,Oceania
+864,-16.3920001983643,145.311996459961,248,Syndicate,Australia,Oceania
+865,-16.3920001983643,179.688003540039,114,Cakaudrove,Viti,Oceania
+866,-15.1430997848511,125.0,4,Prince Regent River,Australia,Oceania
+867,-15.1430997848511,125.625,315,Mitchell Plateau,Australia,Oceania
+868,-15.1430997848511,125.938003540039,335,Mitchell Plateau,Australia,Oceania
+869,-15.1430997848511,126.25,365,Drysdale River,Australia,Oceania
+870,-15.1430997848511,126.561996459961,396,Drysdale River,Australia,Oceania
+871,-15.1430997848511,126.875,298,Drysdale River,Australia,Oceania
+872,-15.1430997848511,127.188003540039,373,Drysdale River,Australia,Oceania
+873,-15.1430997848511,127.5,302,Oombulgurri,Australia,Oceania
+874,-15.1430997848511,127.811996459961,161,Oombulgurri,Australia,Oceania
+875,-15.1430997848511,128.438003540039,141,Cambridge Gulf,Australia,Oceania
+876,-15.1430997848511,128.75,179,Cambridge Gulf,Australia,Oceania
+877,-15.1430997848511,129.061996459961,37,Baines,Australia,Oceania
+878,-15.1430997848511,129.375,61,Baines,Australia,Oceania
+879,-15.1430997848511,130.0,61,Bradshaw,Australia,Oceania
+880,-15.1430997848511,130.311996459961,175,Bradshaw,Australia,Oceania
+881,-15.1430997848511,130.625,177,Bradshaw,Australia,Oceania
+882,-15.1430997848511,130.938003540039,256,Bradshaw,Australia,Oceania
+883,-15.1430997848511,131.25,256,Bradshaw,Australia,Oceania
+884,-15.1430997848511,131.561996459961,226,Delamere,Australia,Oceania
+885,-15.1430997848511,131.875,228,Delamere,Australia,Oceania
+886,-15.1430997848511,132.188003540039,222,Sturt Plateau,Australia,Oceania
+887,-15.1430997848511,132.5,190,Sturt Plateau,Australia,Oceania
+888,-15.1430997848511,132.811996459961,193,Sturt Plateau,Australia,Oceania
+889,-15.1430997848511,133.125,147,Elsey,Australia,Oceania
+890,-15.1430997848511,133.438003540039,160,Elsey,Australia,Oceania
+891,-15.1430997848511,133.75,108,Elsey,Australia,Oceania
+892,-15.1430997848511,134.061996459961,68,Limmen,Australia,Oceania
+893,-15.1430997848511,134.375,90,Limmen,Australia,Oceania
+894,-15.1430997848511,134.688003540039,73,Limmen,Australia,Oceania
+895,-15.1430997848511,135.0,44,Limmen,Australia,Oceania
+896,-15.1430997848511,135.311996459961,54,Limmen,Australia,Oceania
+897,-15.1430997848511,135.625,1,Limmen,Australia,Oceania
+898,-15.1430997848511,141.875,12,Kowanyama,Australia,Oceania
+899,-15.1430997848511,142.188003540039,40,Edward River,Australia,Oceania
+900,-15.1430997848511,142.5,64,Edward River,Australia,Oceania
+901,-15.1430997848511,142.811996459961,83,Yarraden,Australia,Oceania
+902,-15.1430997848511,143.125,132,Dixie,Australia,Oceania
+903,-15.1430997848511,143.438003540039,108,Dixie,Australia,Oceania
+904,-15.1430997848511,143.75,73,Laura,Australia,Oceania
+905,-15.1430997848511,144.061996459961,54,Lakefield,Australia,Oceania
+906,-15.1430997848511,144.375,49,Lakefield,Australia,Oceania
+907,-15.1430997848511,144.688003540039,76,Cooktown,Australia,Oceania
+908,-15.1430997848511,145.0,94,Hope Vale,Australia,Oceania
+909,-14.8309001922607,125.311996459961,199,Mitchell Plateau,Australia,Oceania
+910,-14.8309001922607,125.625,62,Mitchell Plateau,Australia,Oceania
+911,-14.8309001922607,125.938003540039,266,Mitchell Plateau,Australia,Oceania
+912,-14.8309001922607,126.25,304,Drysdale River,Australia,Oceania
+913,-14.8309001922607,126.561996459961,224,Drysdale River,Australia,Oceania
+914,-14.8309001922607,126.875,197,Drysdale River,Australia,Oceania
+915,-14.8309001922607,127.188003540039,305,Drysdale River,Australia,Oceania
+916,-14.8309001922607,127.5,190,Oombulgurri,Australia,Oceania
+917,-14.8309001922607,127.811996459961,220,Oombulgurri,Australia,Oceania
+918,-14.8309001922607,128.125,70,Oombulgurri,Australia,Oceania
+919,-14.8309001922607,128.438003540039,38,Shire Of Wyndham-East Kimberley,Australia,Oceania
+920,-14.8309001922607,128.75,1,Shire Of Wyndham-East Kimberley,Australia,Oceania
+921,-14.8309001922607,130.0,97,Bradshaw,Australia,Oceania
+922,-14.8309001922607,130.311996459961,129,Nemarluk,Australia,Oceania
+923,-14.8309001922607,130.625,185,Nemarluk,Australia,Oceania
+924,-14.8309001922607,130.938003540039,226,Bradshaw,Australia,Oceania
+925,-14.8309001922607,131.25,264,Bradshaw,Australia,Oceania
+926,-14.8309001922607,131.561996459961,179,Delamere,Australia,Oceania
+927,-14.8309001922607,131.875,160,Delamere,Australia,Oceania
+928,-14.8309001922607,132.188003540039,160,Manbulloo,Australia,Oceania
+929,-14.8309001922607,132.5,188,Manbulloo,Australia,Oceania
+930,-14.8309001922607,132.811996459961,202,Elsey,Australia,Oceania
+931,-14.8309001922607,133.125,178,Elsey,Australia,Oceania
+932,-14.8309001922607,133.438003540039,111,Elsey,Australia,Oceania
+933,-14.8309001922607,133.75,91,Elsey,Australia,Oceania
+934,-14.8309001922607,134.061996459961,76,Flying Fox,Australia,Oceania
+935,-14.8309001922607,134.375,76,Flying Fox,Australia,Oceania
+936,-14.8309001922607,134.688003540039,38,Limmen,Australia,Oceania
+937,-14.8309001922607,135.0,2,Limmen,Australia,Oceania
+938,-14.8309001922607,135.311996459961,4,Limmen,Australia,Oceania
+939,-14.8309001922607,141.875,16,Pormpuraaw,Australia,Oceania
+940,-14.8309001922607,142.188003540039,45,Edward River,Australia,Oceania
+941,-14.8309001922607,142.5,69,Yarraden,Australia,Oceania
+942,-14.8309001922607,142.811996459961,126,Yarraden,Australia,Oceania
+943,-14.8309001922607,143.125,152,Yarraden,Australia,Oceania
+944,-14.8309001922607,143.438003540039,157,Yarraden,Australia,Oceania
+945,-14.8309001922607,143.75,38,Yarraden,Australia,Oceania
+946,-14.8309001922607,144.061996459961,18,Lakefield,Australia,Oceania
+947,-14.8309001922607,144.375,64,Lakefield,Australia,Oceania
+948,-14.8309001922607,144.688003540039,152,Starcke,Australia,Oceania
+949,-14.8309001922607,145.0,49,Starcke,Australia,Oceania
+950,-14.8309001922607,166.561996459961,523,Poarou,Vanuatu,Oceania
+951,-13.5819997787476,130.0,9,Nemarluk,Australia,Oceania
+952,-13.5819997787476,130.311996459961,28,Nemarluk,Australia,Oceania
+953,-13.5819997787476,130.625,70,Daly River,Australia,Oceania
+954,-13.5819997787476,130.938003540039,182,Victoria Daly Region,Australia,Oceania
+955,-13.5819997787476,131.25,245,Douglas-daly,Australia,Oceania
+956,-13.5819997787476,131.561996459961,233,Douglas-daly,Australia,Oceania
+957,-13.5819997787476,131.875,252,Burrundie,Australia,Oceania
+958,-13.5819997787476,132.188003540039,251,Kakadu,Australia,Oceania
+959,-13.5819997787476,132.5,296,Gulung Mardrulk,Australia,Oceania
+960,-13.5819997787476,132.811996459961,300,Gulung Mardrulk,Australia,Oceania
+961,-13.5819997787476,133.125,345,Gulung Mardrulk,Australia,Oceania
+962,-13.5819997787476,133.438003540039,373,Gulung Mardrulk,Australia,Oceania
+963,-13.5819997787476,133.75,261,Gulung Mardrulk,Australia,Oceania
+964,-13.5819997787476,134.061996459961,151,Gulung Mardrulk,Australia,Oceania
+965,-13.5819997787476,134.375,102,Gulung Mardrulk,Australia,Oceania
+966,-13.5819997787476,134.688003540039,135,Flying Fox,Australia,Oceania
+967,-13.5819997787476,135.0,84,,Australia,Oceania
+968,-13.5819997787476,135.311996459961,107,East Arnhem,Australia,Oceania
+969,-13.5819997787476,135.625,80,Numburindi,Australia,Oceania
+970,-13.5819997787476,141.561996459961,1,Aurukun,Australia,Oceania
+971,-13.5819997787476,141.875,20,Aurukun,Australia,Oceania
+972,-13.5819997787476,142.188003540039,30,Archer River,Australia,Oceania
+973,-13.5819997787476,142.5,63,Archer River,Australia,Oceania
+974,-13.5819997787476,142.811996459961,117,Coen,Australia,Oceania
+975,-13.5819997787476,143.125,240,Coen,Australia,Oceania
+976,-13.5819997787476,143.438003540039,76,Coen,Australia,Oceania
+977,-12.3330001831055,131.25,1,Koolpinyah,Australia,Oceania
+978,-12.3330001831055,131.561996459961,11,Hotham,Australia,Oceania
+979,-12.3330001831055,131.875,11,Point Stuart,Australia,Oceania
+980,-12.3330001831055,132.188003540039,8,Kakadu,Australia,Oceania
+981,-12.3330001831055,132.5,11,Kakadu,Australia,Oceania
+982,-12.3330001831055,132.811996459961,58,Kakadu,Australia,Oceania
+983,-12.3330001831055,133.125,193,Gunbalanya,Australia,Oceania
+984,-12.3330001831055,133.438003540039,232,West Arnhem,Australia,Oceania
+985,-12.3330001831055,133.75,180,West Arnhem,Australia,Oceania
+986,-12.3330001831055,134.061996459961,35,West Arnhem,Australia,Oceania
+987,-12.3330001831055,134.375,10,West Arnhem,Australia,Oceania
+988,-12.3330001831055,134.688003540039,31,West Arnhem,Australia,Oceania
+989,-12.3330001831055,135.0,7,Ngangalala,Australia,Oceania
+990,-12.3330001831055,135.311996459961,1,East Arnhem,Australia,Oceania
+991,-12.3330001831055,135.625,6,East Arnhem,Australia,Oceania
+992,-12.3330001831055,135.938003540039,6,East Arnhem,Australia,Oceania
+993,-12.3330001831055,136.561996459961,77,East Arnhem,Australia,Oceania
+994,-12.3330001831055,136.875,3,East Arnhem,Australia,Oceania
+995,-12.3330001831055,141.875,1,Mapoon,Australia,Oceania
+996,-12.3330001831055,142.188003540039,7,Wenlock,Australia,Oceania
+997,-12.3330001831055,142.5,52,Wenlock,Australia,Oceania
+998,-12.3330001831055,142.811996459961,74,Shelburne,Australia,Oceania
+999,-11.0840997695923,142.188003540039,1,Injinoo,Australia,Oceania
+1000,-11.0840997695923,142.5,26,Jardine River,Australia,Oceania
+1001,-10.771900177002,142.5,75,New Mapoon,Australia,Oceania
+1002,-9.52297973632813,147.5,608,Port Moresby District,Papua Niugini,Oceania
+1003,-9.52297973632813,147.811996459961,842,Rigo District,Papua Niugini,Oceania
+1004,-9.52297973632813,148.125,1647,Kokoda District,Papua Niugini,Oceania
+1005,-9.52297973632813,148.438003540039,300,Tufi District,Papua Niugini,Oceania
+1006,-9.52297973632813,148.75,393,Tufi District,Papua Niugini,Oceania
+1007,-9.52297973632813,149.061996459961,241,Tufi District,Papua Niugini,Oceania
+1008,-9.52297973632813,159.688003540039,278,Guadalcanal,Solomon Islands,Oceania
+1009,-9.52297973632813,160.0,269,Guadalcanal,Solomon Islands,Oceania
+1010,-9.52297973632813,160.311996459961,139,Guadalcanal,Solomon Islands,Oceania
+1011,-8.27406024932861,141.25,54,Morehead District,Papua Niugini,Oceania
+1012,-8.27406024932861,141.561996459961,48,Morehead District,Papua Niugini,Oceania
+1013,-8.27406024932861,141.875,19,Morehead District,Papua Niugini,Oceania
+1014,-8.27406024932861,142.188003540039,6,Morehead District,Papua Niugini,Oceania
+1015,-8.27406024932861,142.5,19,Western,Papua Niugini,Oceania
+1016,-8.27406024932861,142.811996459961,10,Balimo District,Papua Niugini,Oceania
+1017,-8.27406024932861,143.125,12,Balimo District,Papua Niugini,Oceania
+1018,-8.27406024932861,146.25,1,Malalaua District,Papua Niugini,Oceania
+1019,-8.27406024932861,146.561996459961,292,Goilala District,Papua Niugini,Oceania
+1020,-8.27406024932861,146.875,2110,Goilala District,Papua Niugini,Oceania
+1021,-8.27406024932861,147.188003540039,2530,Goilala District,Papua Niugini,Oceania
+1022,-8.27406024932861,147.5,754,Oro,Papua Niugini,Oceania
+1023,-8.27406024932861,147.811996459961,239,Oro,Papua Niugini,Oceania
+1024,-8.27406024932861,148.125,56,Oro,Papua Niugini,Oceania
+1025,-8.27406024932861,159.688003540039,95,Isabel,Solomon Islands,Oceania
+1026,-6.71292018890381,140.938003540039,20,Western,Papua Niugini,Oceania
+1027,-6.71292018890381,141.25,59,Western,Papua Niugini,Oceania
+1028,-6.71292018890381,141.561996459961,84,Nomad District,Papua Niugini,Oceania
+1029,-6.71292018890381,141.875,92,Nomad District,Papua Niugini,Oceania
+1030,-6.71292018890381,142.188003540039,154,Nomad District,Papua Niugini,Oceania
+1031,-6.71292018890381,142.5,258,Nomad District,Papua Niugini,Oceania
+1032,-6.71292018890381,142.811996459961,604,Southern Highlands,Papua Niugini,Oceania
+1033,-6.71292018890381,143.125,1916,Nipa District,Papua Niugini,Oceania
+1034,-6.71292018890381,143.438003540039,473,Nipa District,Papua Niugini,Oceania
+1035,-6.71292018890381,143.75,682,Kagua District,Papua Niugini,Oceania
+1036,-6.71292018890381,144.061996459961,1523,Pangia District,Papua Niugini,Oceania
+1037,-6.71292018890381,144.375,914,Pangia District,Papua Niugini,Oceania
+1038,-6.71292018890381,144.688003540039,413,Gulf,Papua Niugini,Oceania
+1039,-6.71292018890381,145.0,799,Simbu,Papua Niugini,Oceania
+1040,-6.71292018890381,145.311996459961,1513,Somai,Papua Niugini,Oceania
+1041,-6.71292018890381,145.625,1524,Awarosa,Papua Niugini,Oceania
+1042,-6.71292018890381,145.938003540039,2492,Obura Wonenara District,Papua Niugini,Oceania
+1043,-6.71292018890381,146.25,878,Morobe,Papua Niugini,Oceania
+1044,-6.71292018890381,146.561996459961,326,Morobe,Papua Niugini,Oceania
+1045,-6.71292018890381,146.875,337,Puseka,Papua Niugini,Oceania
+1046,-6.71292018890381,147.188003540039,7,Wagang Lulu,Papua Niugini,Oceania
+1047,-6.71292018890381,147.5,199,Ee'c,Papua Niugini,Oceania
+1048,-6.71292018890381,155.625,143,Buin,Papua Niugini,Oceania
+1049,-6.71292018890381,155.938003540039,35,Orava,Papua Niugini,Oceania
+1050,-5.46400022506714,141.25,305,Kiunga District,Papua Niugini,Oceania
+1051,-5.46400022506714,141.561996459961,1173,Kiunga District,Papua Niugini,Oceania
+1052,-5.46400022506714,141.875,1608,Western,Papua Niugini,Oceania
+1053,-5.46400022506714,142.188003540039,1095,Koroba - Kopiago District,Papua Niugini,Oceania
+1054,-5.46400022506714,142.5,1533,Koroba - Kopiago District,Papua Niugini,Oceania
+1055,-5.46400022506714,142.811996459961,2597,Porgera District,Papua Niugini,Oceania
+1056,-5.46400022506714,143.125,2120,Porgera,Papua Niugini,Oceania
+1057,-5.46400022506714,143.438003540039,2309,Enga,Papua Niugini,Oceania
+1058,-5.46400022506714,143.75,2307,Wabag,Papua Niugini,Oceania
+1059,-5.46400022506714,144.061996459961,963,Western Highlands,Papua Niugini,Oceania
+1060,-5.46400022506714,144.375,680,Jimi District,Papua Niugini,Oceania
+1061,-5.46400022506714,144.688003540039,1725,Kuwasekum,Papua Niugini,Oceania
+1062,-5.46400022506714,145.0,645,Ramu District,Papua Niugini,Oceania
+1063,-5.46400022506714,145.311996459961,304,Bil,Papua Niugini,Oceania
+1064,-5.46400022506714,145.625,314,Buai,Papua Niugini,Oceania
+1065,-5.46400022506714,148.438003540039,5,Aimsepua,Papua Niugini,Oceania
+1066,-5.46400022506714,150.0,277,Talasea District,Papua Niugini,Oceania
+1067,-5.46400022506714,150.938003540039,295,Kaiamu,Papua Niugini,Oceania
+1068,-5.46400022506714,151.25,1457,Pomio District,Papua Niugini,Oceania
+1069,-5.46400022506714,151.561996459961,730,Manu,Papua Niugini,Oceania
+1070,-5.46400022506714,151.875,490,Pomio District,Papua Niugini,Oceania
+1071,-4.21508979797363,141.25,281,Amanab District,Papua Niugini,Oceania
+1072,-4.21508979797363,141.561996459961,275,East Sepik,Papua Niugini,Oceania
+1073,-4.21508979797363,141.875,51,Ambunti District,Papua Niugini,Oceania
+1074,-4.21508979797363,142.188003540039,42,Ambunti District,Papua Niugini,Oceania
+1075,-4.21508979797363,142.5,31,Ambunti District,Papua Niugini,Oceania
+1076,-4.21508979797363,142.811996459961,219,Ambunti,Papua Niugini,Oceania
+1077,-4.21508979797363,143.125,212,Maprik District,Papua Niugini,Oceania
+1078,-4.21508979797363,143.438003540039,1,Angoram District,Papua Niugini,Oceania
+1079,-4.21508979797363,143.75,1,Angoram District,Papua Niugini,Oceania
+1080,-4.21508979797363,144.061996459961,12,Angoram District,Papua Niugini,Oceania
+1081,-4.21508979797363,144.375,19,East Sepik,Papua Niugini,Oceania
+1082,-4.21508979797363,144.688003540039,15,Kumnung,Papua Niugini,Oceania
+1083,-4.21508979797363,151.561996459961,60,Usewit Plantation,Papua Niugini,Oceania
+1084,-4.21508979797363,152.811996459961,725,Namatanai District,Papua Niugini,Oceania
+1085,-2.65394997596741,141.25,-9999,Baro,Papua Niugini,Oceania
